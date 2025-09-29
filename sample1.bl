@@ -1,0 +1,5 @@
+read a
+read b
+result = (a + b)/2
+write result
+halt
